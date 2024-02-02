@@ -28,5 +28,5 @@ npm install --save-dev mini-css-extract-plugin css-loader
 
 в "Git Bach Here": 
 git add .
-git commit -m "first commit webpack"
+git commit -m "first commit webpack-1"
 git push
